@@ -5,8 +5,9 @@
 raw data/*
 !raw data/.gitadd
 
-!maps/
-
 !figures/
 figures/*
 !figures/.gitadd
+
+!maps/
+!maps/*.*
