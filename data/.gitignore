@@ -1,5 +1,12 @@
 *
 !.gitignore
+
+!raw data/
+raw data/*
 !raw data/.gitadd
+
 !maps/
+
+!figures/
+figures/*
 !figures/.gitadd
