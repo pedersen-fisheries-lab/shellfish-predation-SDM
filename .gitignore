@@ -4,5 +4,5 @@
 .Ruserdata
 .RDataTmp
 .RDataTmp1
-data
 code/\.httr-oauth-SUSPENDED
+code/temp/*
